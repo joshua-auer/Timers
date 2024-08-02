@@ -1,0 +1,16 @@
+{
+    "name": "Timers.Runtime",
+    "rootNamespace": "Timers",
+    "references": [
+        "GUID:53d316845b410cb449b873f74b118a3f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

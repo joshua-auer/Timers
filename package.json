@@ -1,0 +1,20 @@
+{
+    "name": "com.joshua-auer.timers",
+    "version": "1.0.0",
+    "displayName": "Timers",
+    "description": "A collection of various timers that are updated directly in the PlayerLoop.",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.joshua-auer.unity-utilities": "1.0.0"
+    },
+    "keywords": [
+        "timers",
+        "countdown",
+        "stopwatch"
+    ],
+    "author": {
+        "name": "Joshua Auer",
+        "email": "joshua.auer@loop.colum.edu",
+        "url": "https://joshuaauer.wixsite.com/joshua-auer"
+    }
+}
