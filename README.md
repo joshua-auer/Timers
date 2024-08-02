@@ -181,18 +181,12 @@ public class MyCustomTimer : Timer
     2. Click the `+` icon in the top left corner of the Package Manager window and select `Add package from git URL...`
     3. Copy paste the following URL into the text box and click import:
 
-        `https://github.com/joshuaauer/Timers.git`
-
-- ### Download
-
-    1. Click Download ZIP at the top of this page and unzip the file once it has finished downloading
-    2. Import the package from within Unity by going to `Assets->Import Package->Custom Package...`
-    3. Navigate to the directory of the unzipped file, select the root folder and click import
+        `https://github.com/joshua-auer/Timers.git`
 
 - ### Add To Manifest
 
     1. Locate your project's `manifest.json` file and add the following line:
 
         ```json
-        "com.joshua-auer.timers": "https://github.com/joshuaauer/Timers.git"
+        "com.joshua-auer.timers": "https://github.com/joshua-auer/Timers.git"
         ```
