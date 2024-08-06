@@ -5,7 +5,7 @@
     "description": "A collection of various timers that are updated directly in the PlayerLoop.",
     "unity": "2022.3",
     "dependencies": {
-        "com.joshua-auer.unity-utilities": "1.0.0"
+        "com.joshua-auer.unity-utilities": "https://github.com/joshua-auer/Unity-Utilities.git"
     },
     "keywords": [
         "timers",

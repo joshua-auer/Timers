@@ -181,11 +181,13 @@ public class MyCustomTimer : Timer
     2. Click the `+` icon in the top left corner of the Package Manager window and select `Add package from git URL...`
     3. Copy paste the following URL into the text box and click import:
 
-        `https://github.com/joshua-auer/Timers.git`
+        ```
+        https://github.com/joshua-auer/Timers.git
+        ```
 
 - ### Add To Manifest
 
-    1. Locate your project's `manifest.json` file and add the following line:
+    - Locate your project's `manifest.json` file and add the following line:
 
         ```json
         "com.joshua-auer.timers": "https://github.com/joshua-auer/Timers.git"
